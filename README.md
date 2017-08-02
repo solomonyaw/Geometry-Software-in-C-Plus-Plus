@@ -1,4 +1,4 @@
-# Geometry-Software-in-C-Plus-Plus-Console-
+<font color="red"> # Geometry-Software-in-C-Plus-Plus-Console-</font>
  C++ program that  contains formulae for solving geometric problems.The switch control structure was implemented to provide availble
  geometric theory options to the user. Functions and function calls were created to reduce amount of code written.
 
@@ -20,7 +20,7 @@ in which most programs are written.
 
 IDE used: Dev C++ 4.992
 
-# Flow Chart for the program
+<font color="red"># Flow Chart for the program</font>
 ![alt text](snapshots/flowchart.png "Description goes here")
 
 Below are the snapshots of the program:
