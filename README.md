@@ -1,10 +1,11 @@
- <font color="red">#Geometry-Software-in-C-Plus-Plus-Console-</font>
+ #  Geometry-Software-in-C-Plus-Plus-Console-
  C++ program that  contains formulae for solving geometric problems.The switch control structure was implemented to provide availble
  geometric theory options to the user. Functions and function calls were created to reduce amount of code written.
 
 This Geomerty Software which i created with C++ was a first year semester project work done in 2012.
 User can only interact with the system on a command prompt (cmd) console screen. The program will be able 
 to solve: <br/><br/>
+<font color="red">
 a.The Area of a Rectancle<br/>
 b.Total Surface Area and Volume of a Cube<br/>
 c.Area and Circumference of a  Circle<br/>
@@ -13,14 +14,14 @@ e.Total Surface Area and Volume of a cuboid<br />
 f. Curved Surface Area, Total Surface Area and Volume of a Cone<br/>
 g.Surface Area of a Celinder<br/>
 h.The Area of a Trapezoid<br/>
-i.The Area of a Triangle<br/>
+i.The Area of a Triangle<br/></font>
 
 The C++ programming language which was started by  Bjarne Stroutrup at Bell Labs has been a very popular language
 in which most programs are written.
 
 IDE used: Dev C++ 4.992
 
-<font color="red">#Flow Chart for the program</font>
+# Flow Chart for the program
 ![alt text](snapshots/flowchart.png "Description goes here")
 
 Below are the snapshots of the program:
