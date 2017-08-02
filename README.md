@@ -20,8 +20,12 @@ in which most programs are written.
 
 IDE used: Dev C++ 4.992
 
+# Flow Chart for the program
+![alt text](snapshots/flowchart.png "Description goes here")
+
 Below are the snapshots of the program:
 
 ![alt text](snapshots/code.PNG "Description goes here")
 
 ![alt text](snapshots/GeometrySoftware.PNG "Description goes here")
+
