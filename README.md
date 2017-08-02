@@ -5,16 +5,15 @@
 This Geomerty Software which i created with C++ was a first year semester project work done in 2012.
 User can only interact with the system on a command prompt (cmd) console screen. The program will be able 
 to solve: <br/>
-1.The Area of a Rectancle<br/>
-2.Total Surface Area and Volume of a Cube<br/>
-3.Area and Circumference of a  Circle<br/>
-4.Total and Curved Surface Area of and Volume of a Tetrahedron<br/>
-
-5.Total Surface Area and Volume of a cuboid<br />
-6. Curved Surface Area, Total Surface Area and Volume of a Cone<br/>
-7.Surface Area of a Celinder<br/>
-8.The Area of a Trapezoid<br/>
-9.The Area of a Triangle<br/>
+a.The Area of a Rectancle<br/>
+b.Total Surface Area and Volume of a Cube<br/>
+c.Area and Circumference of a  Circle<br/>
+d.Total and Curved Surface Area of and Volume of a Tetrahedron<br/>
+e.Total Surface Area and Volume of a cuboid<br />
+f. Curved Surface Area, Total Surface Area and Volume of a Cone<br/>
+g.Surface Area of a Celinder<br/>
+h.The Area of a Trapezoid<br/>
+i.The Area of a Triangle<br/>
 
 The C++ programming language which was started by  Bjarne Stroutrup at Bell Labs has been a very popular language
 in which most programs are written.
