@@ -1,6 +1,6 @@
 # Geometry-Software-in-C-Plus-Plus-Console-
- C++ program that  contains formulae for solving geometric problems. A control structure called switch was used. Funtions
- and function calls were created to reduce amount of code written.
+ C++ program that  contains formulae for solving geometric problems.The switch control structure was implemented to provide availble
+ geometric theory options to the user. Functions and function calls were created to reduce amount of code written.
 
 This Geomerty Software which i created with C++ was a first year semester project work done in 2012.
 User can only interact with the system on a command prompt (cmd) console screen. The program will be able 
