@@ -1,4 +1,4 @@
-<font color="red"> # Geometry-Software-in-C-Plus-Plus-Console-</font>
+ # <font color="red">Geometry-Software-in-C-Plus-Plus-Console-</font>
  C++ program that  contains formulae for solving geometric problems.The switch control structure was implemented to provide availble
  geometric theory options to the user. Functions and function calls were created to reduce amount of code written.
 
