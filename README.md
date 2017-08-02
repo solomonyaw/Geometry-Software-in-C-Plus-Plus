@@ -4,7 +4,7 @@
 
 This Geomerty Software which i created with C++ was a first year semester project work done in 2012.
 User can only interact with the system on a command prompt (cmd) console screen. The program will be able 
-to solve: <br/>
+to solve: <br/><br/>
 a.The Area of a Rectancle<br/>
 b.Total Surface Area and Volume of a Cube<br/>
 c.Area and Circumference of a  Circle<br/>
