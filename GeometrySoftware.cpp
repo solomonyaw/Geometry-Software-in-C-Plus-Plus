@@ -1,5 +1,5 @@
 //this program contains formulae for solving geometric problems
-//This programwas developed by Solomon Yaw Adeklo
+//This program was developed by Solomon Yaw Adeklo
 #include<iostream>
 #include<iomanip>
 #include<cmath>
